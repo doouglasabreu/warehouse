@@ -1,0 +1,30 @@
+{
+  "name": "controle-estoque",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Almoxarifado",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizASSilveira/Controle-Estoque.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizASSilveira/Controle-Estoque/issues"
+  },
+  "homepage": "https://github.com/LuizASSilveira/Controle-Estoque#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12",
+    "nodemon": "^1.17.3",
+    "npm": "^5.8.0"
+  }
+}
